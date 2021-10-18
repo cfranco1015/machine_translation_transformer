@@ -7,6 +7,11 @@ A sequence-to-sequence Transformer model was built for Engilsh-to-Spanish machin
 ## Getting Started
 
 ### Dependencies
+* Tensorflow 2 
+* NLTK
+* NumPy
+* Matplotlib
+* Scikit-learn
 
 ### Installing
 
