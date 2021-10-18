@@ -13,11 +13,10 @@ A sequence-to-sequence Transformer model was built for Engilsh-to-Spanish machin
 
 ### Executing program
 
-Using Google Colab or Jupyter Lab. Can also be downloaded as a .py file and ran using: 
+Notebook can be ran using Google Colab or Jupyter Lab. It can also be downloaded as a .py file and ran using: 
 ```
 python3 machine_translation_transformer.py
 ```
-
 
 ## Help
 
