@@ -19,9 +19,12 @@ python3 machine_translation_transformer.py
 ```
 
 ## Help
+* Transformer models should be trained on data for at least thirty epochs
+* Adding custom layers to the overall model will need an overridden get_config() function for proper model saving/loading.
 
 ## License
 
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
+The Anki data is licensed under the CC-BY License. 
 
 ## Acknowledgments
+This repository was greatly influenced by [fchollet](https://github.com/keras-team/keras-io/blob/master/examples/nlp/neural_machine_translation_with_transformer.py).
